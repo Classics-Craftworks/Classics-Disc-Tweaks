@@ -12,7 +12,7 @@ A simple Minecraft resource pack to make the game's music discs wider & a bit mo
 * Makes all discs 1 pixel wider
 * Simplifies the design of newer (1.16+) discs to better match older discs, while still keeping them recognisable
 
-![image](placeholder)
+![image](https://i.imgur.com/FAE47Q9.gif)
 
 ## Versions
 
