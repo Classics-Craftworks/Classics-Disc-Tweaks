@@ -9,22 +9,17 @@ body:
     attributes:
       label: What happened?
       description: A clear and concise description of what the bug is.
-      placeholder: "Example: By putting 1 Amethyst Block into a crafting table, I cannot craft it back into 4 Amethyst Shards."
+      placeholder: "Example: The texture for the Mellohi music disc is 1 pixel too short in width."
     validations:
       required: true
   - type: dropdown
     id: version
     attributes:
       label: Version
-      description: Which version of Better Craftables are you using? If it's not listed, please update!
+      description: Which version of Classic's Disc Tweaks are you using? If it's not listed, please update!
       options:
-        - v2.0.0-alpha4
-        - v1.6.0+mod
-        - v1.6.0
-        - v1.5.1+mod
-        - v1.5.1
-        - v1.4.0+mod
-        - v1.4.0
+        - v1.1.0
+        - v1.0.0
     validations:
       required: true
   - type: textarea
@@ -35,14 +30,6 @@ body:
       placeholder: If using on a non-vanilla server, please type /version and paste the output here. If using in a vanilla setting, please type the Minecraft version here instead.
     validations:
       required: true
-  - type: textarea
-    id: modloaderversion
-    attributes:
-      label: Mod Loader Version
-      description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Example: Fabric Loader v0.15.11 with Fabric API v0.100.4 for Minecraft 1.21"
-    validations:
-      required: false
   - type: textarea
     id: logs
     attributes:
