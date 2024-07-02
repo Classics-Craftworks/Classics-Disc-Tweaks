@@ -20,6 +20,9 @@ body:
       options:
         - v1.1.0
         - v1.0.0
+        - v0.4.2
+        - v0.4.1
+        - v0.4.0
     validations:
       required: true
   - type: textarea
