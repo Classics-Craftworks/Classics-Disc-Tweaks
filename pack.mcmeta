@@ -1,7 +1,7 @@
 {
     "pack": {
         "pack_format": 35,
-        "supported_formats": {"min_inclusive": 35, "max_inclusive": 36},
-        "description": "§bClassic's Disc Tweaks §7v1.1.1-beta3\n§fMinecraft 1.21.2 Snapshots"
+        "supported_formats": {"min_inclusive": 35, "max_inclusive": 37},
+        "description": "§bClassic's Disc Tweaks §7v1.1.1-beta4\n§fMinecraft 1.21.2 Snapshots"
     }
 }
