@@ -12,17 +12,19 @@ A simple Minecraft resource pack to make the game's music discs wider & a bit mo
 * Makes all discs 1 pixel wider
 * Simplifies the design of newer (1.16+) discs to better match older discs, while still keeping them recognisable
 
-![image](https://i.imgur.com/FAE47Q9.gif)
+![image](https://i.imgur.com/AIU7oVB.gif)
+
+*Note: The above image shows textures from the v1.2.0 update.*
 
 ## Versions
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
+| 1.21.4 (24w44a) |  [v1.2.0-beta1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.2.0-beta1) |
 | 1.21.2 - 1.21.3 |  [v1.1.1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.1.1) |
 | 1.21 - 1.21.1 |  [v1.1.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.1.0) |
 | 1.20.5 - 1.20.6 |  [v1.0.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.0.0) |
 | 1.20.3 - 1.20.4 |  [v0.4.2](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.2) |
-| 1.20.2 |  [v0.4.1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.1) |
 
 Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
 
