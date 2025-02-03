@@ -7,7 +7,7 @@ A simple Minecraft resource pack to make the game's music discs wider & a bit mo
 [![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-disc-tweaks)
 [![](https://img.shields.io/github/downloads/Classic36-Media/Classics-Disc-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases)
 
-## What the pack does
+## Features
 
 * Makes all discs 1 pixel wider
 * Simplifies the design of newer (1.16+) discs to better match older discs, while still keeping them recognisable
