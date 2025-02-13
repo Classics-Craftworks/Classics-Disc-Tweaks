@@ -18,11 +18,9 @@ body:
       label: Version
       description: Which version of Classic's Disc Tweaks are you using? If it's not listed, please update!
       options:
-        - v1.2.1-beta5
+        - v1.2.1-beta6
         - v1.2.0
         - v1.1.1
-        - v1.1.0
-        - v1.0.0
     validations:
       required: true
   - type: textarea
@@ -30,7 +28,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: If using on a non-vanilla server, please type /version and paste the output here. If using in a vanilla setting, please type the Minecraft version here instead.
+      placeholder: Simply "1.21.4" or "25w07a", for example, will do.
     validations:
       required: true
   - type: textarea
