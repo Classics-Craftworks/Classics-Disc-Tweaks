@@ -2,6 +2,6 @@
     "pack": {
         "pack_format": 46,
         "supported_formats": {"min_inclusive": 46, "max_inclusive": 55},
-        "description": "§dClassic's Disc Tweaks\n§7v1.2.1-b9 §8/ §f1.21.4-1.21.5-pre1"
+        "description": "§dClassic's Disc Tweaks\n§7v1.3.0-p1 §8/ §f1.21.4-1.21.5-pre2"
     }
 }
