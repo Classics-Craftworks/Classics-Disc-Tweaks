@@ -18,7 +18,7 @@ A simple Minecraft resource pack to make the game's music discs wider & a bit mo
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.4 - 1.21.5-pre3 |  [v1.3.0-pre1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.3.0-pre1) |
+| 1.21.4 - 1.21.5-rc1 |  [v1.3.0-pre1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.3.0-pre1) |
 | 1.21.4 |  [v1.2.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.2.0) |
 | 1.21.2 - 1.21.3 |  [v1.1.1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.1.1) |
 | 1.21 - 1.21.1 |  [v1.1.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.1.0) |
