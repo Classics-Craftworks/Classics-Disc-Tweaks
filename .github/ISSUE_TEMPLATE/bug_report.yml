@@ -19,7 +19,7 @@ body:
       label: Version
       description: Which version of Classic's Disc Tweaks are you using? If it's not listed, please consider updating!
       options:
-        - v1.4.0-beta3
+        - v1.4.0-beta4
         - v1.3.0
         - v1.1.1
         - v1.1.0
