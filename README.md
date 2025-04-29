@@ -35,4 +35,4 @@ Older versions and snapshots can be found [here on Modrinth](https://modrinth.co
 
 ***
 
-###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+**Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.**
