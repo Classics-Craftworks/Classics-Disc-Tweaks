@@ -1,16 +1,16 @@
 ![image](https://i.imgur.com/yRChQBP.png)
 
-A simple Minecraft resource pack to make the game's music discs wider & a bit more consistent with each other.
+A lightweight Minecraft resource pack that subtly widens the game's music discs and unifies their design for a more cohesive look.
 
 ## Downloads
 
 [![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-disc-tweaks)
 [![](https://img.shields.io/github/downloads/Classic36-Media/Classics-Disc-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases)
 
-## Features
+## Overview
 
-* Makes all discs 1 pixel wider
-* Simplifies the design of newer (1.16+) discs to better match older discs, while still keeping them recognisable
+* Expands all music discs by 1 pixel
+* Refines newer disc textures (1.16+) to better match the style of older discs, while keeping them visually distinct
 
 ![image](https://i.imgur.com/AIU7oVB.gif)
 
@@ -25,10 +25,11 @@ A simple Minecraft resource pack to make the game's music discs wider & a bit mo
 | 1.20.5 - 1.20.6 |  [v1.0.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.0.0) |
 | 1.20.3 - 1.20.4 |  [v0.4.2](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.2) |
 
-Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
+Older versions and snapshots can be found [here on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [on GitHub](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
 
-## Support Requests
-Please open any support requests [here on GitHub](https://github.com/Classic36-Media/Classics-Disc-Tweaks/issues/new/choose) or on Discord:
+## Support & Feedback
+* Open a [GitHub issue](https://github.com/Classic36-Media/Classics-Disc-Tweaks/issues/new/choose)
+* Join Discord:
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
 
