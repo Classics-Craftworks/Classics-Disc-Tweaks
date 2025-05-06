@@ -18,14 +18,13 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.4 - 25w18a |  [v1.4.0-beta4](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.4.0-beta4) |
-| 1.21.4 - 1.21.5 |  [v1.3.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.3.0) |
-| 1.21.2 - 1.21.3 |  [v1.1.1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.1.1) |
-| 1.21 - 1.21.1 |  [v1.1.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.1.0) |
-| 1.20.5 - 1.20.6 |  [v1.0.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v1.0.0) |
-| 1.20.3 - 1.20.4 |  [v0.4.2](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.2) |
+| 1.20.2 - 25w18a |  [v2.0.0-beta1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.0.0-beta1) |
+| 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
+| 1.19.4 |  [v0.3.5](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
+| 1.19.3 |  [v0.3.4](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
+| 1.19 - 1.19.2 |  [v0.3.3](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.3) |
 
-Older versions and snapshots can be found [here on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [on GitHub](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
+Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [here on GitHub](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
 
 ## Support & Feedback
 * Open a [GitHub issue](https://github.com/Classic36-Media/Classics-Disc-Tweaks/issues/new/choose)
