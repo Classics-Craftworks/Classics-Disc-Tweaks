@@ -10,7 +10,7 @@ body:
     attributes:
       label: What happened?
       description: A clear and concise description of what the bug is.
-      placeholder: "Example: The texture for the Mellohi music disc is 1 pixel too short in width."
+      placeholder: "Example: The Tears music disc does not have its updated texture."
     validations:
       required: true
   - type: dropdown
@@ -19,7 +19,7 @@ body:
       label: Version
       description: Which version of Classic's Disc Tweaks are you using? If it's not listed, please consider updating!
       options:
-        - v2.0.0-beta2
+        - v2.0.0-beta3
         - v1.3.0
         - v0.4.3
         - v0.3.5
