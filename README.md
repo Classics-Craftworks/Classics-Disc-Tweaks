@@ -12,12 +12,13 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 * Expands all music discs by 1 pixel
 * Refines newer disc textures (1.16+) to better match the style of older discs, while keeping them visually distinct
 
-![image](https://i.imgur.com/Y0qPn7E.gif)
+![image](https://i.imgur.com/zdRCYrV.gif)
 
 ## Versions
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
+| 1.20.2 - 1.21.7-rc1 |  [v2.1.0-beta1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.1.0-beta1) |
 | 1.20.2 - 1.21.6 |  [v2.0.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.0.0) |
 | 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
 | 1.19.4 |  [v0.3.5](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
