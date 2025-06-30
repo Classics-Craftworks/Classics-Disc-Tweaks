@@ -18,8 +18,7 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.20.2 - 1.21.7-rc2 |  [v2.1.0-pre1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.1.0-pre1) |
-| 1.20.2 - 1.21.6 |  [v2.0.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.0.0) |
+| 1.20.2 - 1.21.6 |  [v2.1.0](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.1.0) |
 | 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
 | 1.19.4 |  [v0.3.5](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
 | 1.19.3 |  [v0.3.4](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
