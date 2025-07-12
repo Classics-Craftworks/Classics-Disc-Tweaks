@@ -26,6 +26,8 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [here on GitHub](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
 
+If you're using the latest version on a new snapshot, messages about the pack being incompatible can usually be ignored.
+
 ## Bug Reports
 * Open a [GitHub issue](https://github.com/Classic36-Media/Classics-Disc-Tweaks/issues/new/choose)
 * Join Discord:
