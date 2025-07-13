@@ -10,7 +10,7 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 ## Overview
 
 * Expands all music discs by 1 pixel
-* Refines newer disc textures (1.16+) to better match the style of older discs, while keeping them visually distinct
+* Refines newer (1.16+) disc textures to better match the style of older discs, while keeping them visually distinct
 
 ![image](https://i.imgur.com/zdRCYrV.gif)
 
