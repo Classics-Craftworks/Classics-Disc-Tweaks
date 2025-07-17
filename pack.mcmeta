@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 16,
         "supported_formats": {"min_inclusive": 16, "max_inclusive": 64},
-        "description": "§6Classic's Disc Tweaks\n§7v2.1.1-p1 §8/ §f1.20.2-1.21.8rc1"
+        "description": "§6Classic's Disc Tweaks\n§7v2.1.1 §8/ §f1.20.2-1.21.8"
     },
 	"overlays": {
 		"entries": [
