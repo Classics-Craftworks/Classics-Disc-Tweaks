@@ -7,6 +7,8 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 
 ## Downloads
 
+Classic's Disc Tweaks is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the data pack/mod.
+
 [![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-disc-tweaks)
 [![](https://img.shields.io/github/downloads/Classic36-Media/Classics-Disc-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases)
 
