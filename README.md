@@ -10,7 +10,7 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 Classic's Disc Tweaks is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the resource pack.
 
 [![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-disc-tweaks)
-[![](https://img.shields.io/github/downloads/Classic36-Media/Classics-Disc-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases)
+[![](https://img.shields.io/github/downloads/Classics-Craftworks/Classics-Disc-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases)
 
 ## Overview
 
@@ -23,18 +23,18 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w31a - 25w34b |  [v3.0.0-beta2](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v3.0.0-beta2) |
-| 1.20.2 - 1.21.8 |  [v2.1.1](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v2.1.1) |
-| 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
-| 1.19.4 |  [v0.3.5](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
-| 1.19.3 |  [v0.3.4](https://github.com/Classic36-Media/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
+| 25w31a - 25w34b |  [v3.0.0-beta2](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v3.0.0-beta2) |
+| 1.20.2 - 1.21.8 |  [v2.1.1](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v2.1.1) |
+| 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
+| 1.19.4 |  [v0.3.5](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
+| 1.19.3 |  [v0.3.4](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
 
-Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [here on GitHub](https://github.com/Classic36-Media/Classics-Disc-Tweaks/wiki/Versions).
+Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/wiki/Versions).
 
 If you're using the latest version on a new snapshot, messages about the pack being incompatible can usually be ignored.
 
 ## Bug Reports
-* Open a [GitHub issue](https://github.com/Classic36-Media/Classics-Disc-Tweaks/issues/new/choose)
+* Open a [GitHub issue](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/issues/new/choose)
 * Join Discord:
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
