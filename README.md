@@ -23,7 +23,7 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w35a |  [v3.0.0-pre1](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v3.0.0-pre1) |
+| 25w36a - 25w36b |  [v3.0.0-pre2](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v3.0.0-pre2) |
 | 1.20.2 - 1.21.8 |  [v2.1.1](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v2.1.1) |
 | 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
 | 1.19.4 |  [v0.3.5](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
