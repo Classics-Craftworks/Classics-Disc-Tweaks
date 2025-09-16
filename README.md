@@ -10,7 +10,6 @@ A lightweight Minecraft resource pack that subtly widens the game's music discs 
 Classic's Disc Tweaks is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the resource pack.
 
 [![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-disc-tweaks)
-[![](https://img.shields.io/github/downloads/Classics-Craftworks/Classics-Disc-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases)
 
 ## Overview
 
@@ -23,11 +22,11 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w36a - 1.21.9-pre1 | [v3.0.0-pre3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v3.0.0-pre3) |
-| 1.20.2 - 1.21.8 | [v2.1.1](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v2.1.1) |
-| 1.20 - 1.20.1 | [v0.4.3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
-| 1.19.4 | [v0.3.5](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
-| 1.19.3 | [v0.3.4](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
+| 25w36a - 1.21.9-pre1 | [v3.0.0-pre3](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v3.0.0-pre3) |
+| 1.20.2 - 1.21.8 | [v2.1.1](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v2.1.1) |
+| 1.20 - 1.20.1 | [v0.4.3](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v0.4.3) |
+| 1.19.4 | [v0.3.5](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v0.3.5) |
+| 1.19.3 | [v0.3.4](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v0.3.4) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/wiki/Versions).
 
