@@ -23,11 +23,11 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w36a - 25w37a |  [v3.0.0-pre3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v3.0.0-pre3) |
-| 1.20.2 - 1.21.8 |  [v2.1.1](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v2.1.1) |
-| 1.20 - 1.20.1 |  [v0.4.3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
-| 1.19.4 |  [v0.3.5](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
-| 1.19.3 |  [v0.3.4](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
+| 25w36a - 1.21.9-pre1 | [v3.0.0-pre3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v3.0.0-pre3) |
+| 1.20.2 - 1.21.8 | [v2.1.1](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v2.1.1) |
+| 1.20 - 1.20.1 | [v0.4.3](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.4.3) |
+| 1.19.4 | [v0.3.5](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.5) |
+| 1.19.3 | [v0.3.4](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/releases/tag/v0.3.4) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-disc-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks/wiki/Versions).
 
