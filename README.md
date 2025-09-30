@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/yRChQBP.png)
+![image](https://i.postimg.cc/6pC5T1mJ/Banner.png)
 
 A lightweight Minecraft resource pack that subtly widens the game's music discs and unifies their design for a more cohesive look.
 
@@ -16,7 +16,7 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 * Expands all music discs by 1 pixel
 * Refines newer (1.16+) disc textures to better match the style of older discs, while keeping them visually distinct
 
-![image](https://i.imgur.com/zdRCYrV.gif)
+![image](https://i.postimg.cc/xCN0DxMY/v3.gif)
 
 ## Versions
 
