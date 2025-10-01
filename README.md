@@ -3,7 +3,9 @@
 A lightweight Minecraft resource pack that subtly widens the game's music discs and unifies their design for a more cohesive look.
 
 > [!TIP]
-> Looking for some dye texture tweaks? Check out [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks)!
+> Looking for more small tweaks?
+> Try [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks) for improved dye textures,
+> or check out [Classic's Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks) for improved lantern textures!
 
 ## Downloads
 
