@@ -18,9 +18,8 @@ body:
       label: Version
       description: Which version of Classic's Disc Tweaks are you using? If it's not listed, please consider updating!
       options:
-        - v3.2.0-pre1
+        - v3.2.0
         - v3.1.0
-        - v3.0.0
         - v2.1.1
     validations:
       required: true
@@ -29,7 +28,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "1.21.11" or "26.1 Pre-Release 1", for example, will do.
+      placeholder: Simply "26.1" or "26.1 Snapshot 4", for example, will do.
     validations:
       required: true
   - type: textarea
