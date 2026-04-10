@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/6pC5T1mJ/Banner.png)
+![image](https://i.postimg.cc/rmkdNygX/Disc_T_Final_Header.png)
 
 A lightweight Minecraft resource pack that subtly widens the game's music discs and unifies their design for a more cohesive look.
 
