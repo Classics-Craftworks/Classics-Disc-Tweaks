@@ -18,12 +18,13 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 * Expands all music discs by 1 pixel
 * Refines newer (1.16+) disc textures to better match the style of older discs, while keeping them visually distinct
 
-![image](https://i.postimg.cc/qMDZ5gnY/v3-1.gif)
+![image](https://i.postimg.cc/tgrmWrhJ/Comparison3-3.gif)
 
 ## Versions
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
+| 1.21.9 - 26.2-snap-7 | [v3.3.0-beta.1](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v3.3.0-beta.1) |
 | 1.21.9 - 26.1.2 | [v3.2.0](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v3.2.0) |
 | 1.20.2 - 1.21.8 | [v2.1.1](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v2.1.1) |
 
