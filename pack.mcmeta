@@ -1,15 +1,15 @@
 {
 	"pack": {
 		"min_format": 69,
-		"max_format": 87,
-		"description": "§6Classic's Disc Tweaks\n§7v3.3.0-b1 §8/ §f1.21.9-26.2s7"
+		"max_format": 88,
+		"description": "§6Classic's Disc Tweaks\n§7v3.3.0-p1 §8/ §f1.21.9-26.2p1"
     },
     "overlays": {
         "entries": [
             {
                 "directory": "assets_26.2",
                 "min_format": 87,
-                "max_format": 87
+                "max_format": 88
             }
         ]
     }
