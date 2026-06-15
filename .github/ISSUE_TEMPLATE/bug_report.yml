@@ -23,7 +23,7 @@ body:
         - v2.1.1
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: mcversion
     attributes:
       label: Minecraft Version
@@ -31,7 +31,7 @@ body:
       placeholder: Simply "26.1.2" or "26.2 Snapshot 8", for example, will do.
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: logs
     attributes:
       label: Relevant log output
