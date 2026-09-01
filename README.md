@@ -24,6 +24,7 @@ Classic's Disc Tweaks is only available on the platforms listed below. Please be
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
+| 1.21.9 - 26.3-pre.1 | [v3.4.0-pre.1](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v3.4.0-pre.1) |
 | 1.21.9 - 26.2 | [v3.3.0](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v3.3.0) |
 | 1.20.2 - 1.21.8 | [v2.1.1](https://modrinth.com/resourcepack/classics-disc-tweaks/version/v2.1.1) |
 
